@@ -1,0 +1,9 @@
+.home-title {
+    color: #333333;
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: Arial, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
